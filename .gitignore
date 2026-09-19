@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+ipch/
+
+# User-specific files
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Build files
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.log
+
+# NuGet restored packages
+packages/
